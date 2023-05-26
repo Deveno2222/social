@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 django = "*"
+env = "*"
+
 [dev-packages]
 
 [requires]
